@@ -15,7 +15,6 @@ dist-ssr
 
 # Ignore all environment files
 .env
-src/.env
 server/.env
 
 # Editor directories and files
