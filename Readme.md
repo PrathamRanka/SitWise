@@ -24,7 +24,6 @@
 | **Framer Motion, GSAP** | Animations |
 | **Supabase** | Backend-as-a-Service (auth, DB) |
 | **Node.js** | Backend server |
-| **Chart.js, Recharts** | Data visualization |
 | **Axios** | HTTP requests |
 | **React Router** | Routing |
 | **ESLint** | Code linting |
