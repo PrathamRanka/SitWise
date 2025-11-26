@@ -13,7 +13,7 @@ export default function Footer({ isLoggedIn }) {
           <motion.div whileHover={{ scale: 1.03 }} className="cursor-default flex flex-col items-center md:items-start">
             <h1 className="text-2xl sm:text-3xl font-extrabold text-black tracking-tight">SitWise</h1>
             <p className="text-sm sm:text-base text-gray-600 italic mt-1 text-center md:text-left">
-              Fu*k waiting — your study spot is ready.
+              Quit waiting — your study spot is ready.
             </p>
           </motion.div>
 
